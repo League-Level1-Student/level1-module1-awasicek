@@ -1,4 +1,4 @@
-package _01_race_car;
+package _01_race_car; // Teaching note: don't have to import classes that are in the same package
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2019
  *    Level 1
